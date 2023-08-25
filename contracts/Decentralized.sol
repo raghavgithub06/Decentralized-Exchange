@@ -155,3 +155,5 @@ contract DecentralizedExchange is Ownable {
         return a < b ? a : b;
     }
 }
+
+// Contract address - 0xF004D85071a7a394Edbb9D56810E897B43cdF9dD
