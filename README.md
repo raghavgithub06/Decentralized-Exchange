@@ -13,3 +13,16 @@ This is a decentralized exchange smart contract built on the Ethereum blockchain
 ## Contract Address
 
 The contract is deployed on the Ethereum testnet with the following address: 0xF004D85071a7a394Edbb9D56810E897B43cdF9dD
+
+## Mock ERC20 Token 
+
+This is a mock ERC20 token smart contract built on the Ethereum blockchain using Solidity. The contract implements the ERC20 standard and allows the creation of custom ERC20 tokens. It is based on the OpenZeppelin library's ERC20 implementation.
+
+## Contract Details
+
+- **Token Name:** MockERC20
+- **Token Symbol:** MOCK
+- **Total Supply:** 1,000,000 MOCK tokens
+
+## Contract Address
+The contract is deployed on the Ethereum blockchain with the following address: 0x6E1f8B0288e5ac001648BCFE077eADCdC83DE4B8
